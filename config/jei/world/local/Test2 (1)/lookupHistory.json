@@ -1,0 +1,10 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"simplyswords:diamond_chakram"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:anvil"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:runic_scythe"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:wickpiercer"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:magispear"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:caelestis","components":{"minecraft:damage":2452}},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"simplyswords:caelestis"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
