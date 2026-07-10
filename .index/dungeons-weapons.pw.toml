@@ -1,0 +1,18 @@
+filename = 'minecraftdungeonsv3-beta2-neoforge-1.21.1.jar'
+name = 'Dungeons Weapons'
+side = 'server'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '11'
+
+[download]
+hash = '9385da9e035a560bcd6dd42fcaf3b9408c1508cca3fa8466d1c467095abc85662a9520982e775f8273547e0f559dfd391888f7fe21c25e5ac15291df7a7e057f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CXUEmqIy/versions/T5X10Cmo/minecraftdungeonsv3-beta2-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'CXUEmqIy'
+version = 'T5X10Cmo'
