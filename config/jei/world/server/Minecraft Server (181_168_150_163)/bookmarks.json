@@ -1,5 +1,8 @@
 [
   {"version":2},
   {"ingredient":{"id":"minecraft:wheat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
-  {"ingredient":{"id":"minecraft:bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+  {"ingredient":{"id":"minecraft:bricks"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:sea_pickle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:oak_boat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:yellow_bed"},"type":"item_stack","bookmarkType":"INGREDIENT"}
 ]

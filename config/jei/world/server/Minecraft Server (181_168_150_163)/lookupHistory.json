@@ -1,5 +1,8 @@
 [
   {"version":1},
+  {"ingredient":{"id":"minecraft:ender_chest"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:smoker"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:furnace"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"minecraft:wheat"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simplyswords:diamond_katana"},"type":"item_stack","bookmarkType":"INGREDIENT"},
   {"ingredient":{"id":"simplyswords:diamond_claymore"},"type":"item_stack","bookmarkType":"INGREDIENT"},
